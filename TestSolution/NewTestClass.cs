@@ -13,6 +13,6 @@ namespace WindowsFormsApp2
     class NewTestClass
     {
         public static string str = string.Empty;
-        public static string str1 = string.Empty;
+        public static string str1 = "这是怎么回事";
     }
 }
